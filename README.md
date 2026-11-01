@@ -24,3 +24,4 @@ This kit is for one AI assistant per copy. If you want to use it with another AI
 ## Sharing and privacy
 
 Keep your personalized memory files private unless you deliberately choose to share them. Never put passwords, API keys, recovery codes, or other secrets in these files. If you publish an adaptation of this kit, publish the blank templates, not your completed personal memory.
+
